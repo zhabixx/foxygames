@@ -1,4 +1,4 @@
 [
-    {"name": "Game1", "repo_path": "Game1/game1"},
-    {"name": "Game2", "repo_path": "Game2/game2"}
+    {"name": "Game1", "repo_path": "game%201"},
+    {"name": "Game2", "repo_path": "game%202"}
 ]
